@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ParallelServer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="execute">Execute</string>
+    <string name="generate">Generate</string>
+    <string name="enter_n_numbers">Enter no. of Random Numbers</string>
+    <string name="init_message">Parallel Server [ Version 1.0 ]\n© 2016 PDC Project\nDoCE - DBIT</string>
+</resources>
